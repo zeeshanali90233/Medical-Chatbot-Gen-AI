@@ -80,7 +80,7 @@ def make_qa_chain(llm, retriever):
 
 def generate_response(chain,query):
     res=chain.invoke(query)
-    print(res['source_documents'])
+    # print(res['source_documents'])
     return res['result']
 
 def make_prompt_template():
