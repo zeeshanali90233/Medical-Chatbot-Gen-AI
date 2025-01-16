@@ -51,5 +51,5 @@ Follow the steps below to set up the project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Medical-Chatbot-Gen-AI.git
+git clone https://github.com/zeeshanali90233/Medical-Chatbot-Gen-AI.git
 cd Medical-Chatbot-Gen-AI
